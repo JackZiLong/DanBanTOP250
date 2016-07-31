@@ -19,7 +19,6 @@ urlss   = ['https://www.baidu.com/']
 urls    = ['https://movie.douban.com/top250?start={}&filter='.format(str(i)) for i in range(0,250,25)]
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36',
-    'Cookie': 'bid="7+CqSyP4gNI"; ll="108296"; gr_user_id=4b4252f5-82a0-4ffa-a3ae-a981f3aa8aab; viewed="1734218_1148282_1171759_1734231_3715623_3414633_26004211_1021687_1448494_2305237"; _ga=GA1.2.717586501.1459953584; _vwo_uuid_v2=FE50F1C286A9080EC67C1AA4E6332604|bc9314ca996795189f72820e5c49bdf8; _pk_ref.100001.4cf6=%5B%22%22%2C%22%22%2C1469766616%2C%22https%3A%2F%2Fwww.douban.com%2F%22%5D; ap=1; ps=y; dbcl2="138689172:eZc2p+s4qWE"; ck=dNjS; push_noty_num=0; push_doumail_num=0; __utma=30149280.717586501.1459953584.1469764425.1469766616.29; __utmb=30149280.0.10.1469766616; __utmc=30149280; __utmz=30149280.1463811806.10.6.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utma=223695111.1152103421.1459953602.1469764426.1469766616.22; __utmb=223695111.0.10.1469766616; __utmc=223695111; __utmz=223695111.1469672837.14.14.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/; _pk_id.100001.4cf6=9645e0d8ac4f7566.1459953601.25.1469767368.1469764477.; _pk_ses.100001.4cf6=*'
 }
 
 movies      = []
