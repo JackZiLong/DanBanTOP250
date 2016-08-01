@@ -11,4 +11,4 @@
   
 如有问题，可直接在微信公众号 “Personal_Embedded” 下直接询问
 
-![WeChat](https://github.com/JackZiLong/Myself/blob/master/%E5%BE%AE%E4%BF%A1.jpg)
+![WeChat](https://github.com/JackZiLong/Myself/raw/master/WeChat.jpg)
